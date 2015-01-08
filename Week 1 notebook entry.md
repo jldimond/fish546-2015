@@ -25,14 +25,14 @@
 ###Datasets:
 
 
-####Acropora hyacinthus	
+####*Acropora hyacinthus*	
 
 Transcriptome: http://palumbi.stanford.edu/data/33496_Ahyacinthus_CoralContigs.fasta.zip
 
 Thermal stress: http://www.pnas.org/content/suppl/2013/01/02/1210224110.DCSupplemental/sd03.xlsx
 
 
-####Acropora millepora	
+####*Acropora millepora*
 
 Transcriptome: https://dl.dropboxusercontent.com/u/37523721/amillepora_transcriptome_july2014.zip
 
@@ -47,14 +47,14 @@ Plasticity: http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2009.04257.x/
 Plasticity: http://www.biomedcentral.com/1471-2164/14/228
 
 
-####Acropora palmata	
+####*Acropora palmata*
 
 Transcriptome: http://main.g2.bx.psu.edu/u/nickpolato/h/apalmataassembly
 
 Thermal stress: http://datadryad.org/handle/10255/dryad.39350
 
 
-####Pocillopora damicornis
+####*Pocillopora damicornis*
 
 Transcriptome: http://2ei.univ-perp.fr/telechargement/transcriptomes/blast2go_fasta_Pdamv2.zip
 
@@ -65,14 +65,14 @@ OA: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0058652
 Pathogen: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0107672#pone-0107672-g003
 
 
-####Stylophora pistillata	
+####*Stylophora pistillata*	
 
 Transcriptome: http://www.ncbi.nlm.nih.gov/nuccore/GARY00000000.1
 
 Thermal stress: http://onlinelibrary.wiley.com/doi/10.1111/gcb.12592/abstract;jsessionid=5046C5B3FA37F9CC2C003B60A2086B5A.f03t01?deniedAccessCustomisedMessage=&userIsAuthenticated=false
 
 
-####Montastrea faveolata	
+####*Montastrea faveolata*
 
 Transcriptome: http://sequoia.ucmerced.edu/SymBioSys/est_summary.php?brief=1
 
