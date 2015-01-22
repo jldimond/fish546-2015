@@ -1,0 +1,3 @@
+This week I have been working on creating a directory for my project, and I'm also working on curating the data. Unfortunately I was unable to obtain sequence IDs for differentially expressed genes in both the A. millepora datasets on plasticity. Either the authors provided no sequence IDs, or they did not provide IDs that match with any transcriptome I am aware of. I could not find information on GenBank accession numbers either.
+
+Meanwhile, today and tomorrow is the Software Carpentry Workshop, which has been useful. I think Sam's presentation on Git will be really useful tomorrow, and I hope to add some things up here after I learn more.
