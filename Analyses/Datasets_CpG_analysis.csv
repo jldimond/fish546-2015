@@ -1,0 +1,12 @@
+Organism,Transcriptome URL,Reference,# contigs,Env Factor,Response dataset type,# response genes,Reference,Response dataset URL
+Acropora hyacinthus,http://palumbi.stanford.edu/data/33496_Ahyacinthus_CoralContigs.fasta.zip,http://www.pnas.org/content/110/4/1387.abstract,,elevated temp,same transcriptome,,,Thermal stress: http://www.pnas.org/content/suppl/2013/01/02/1210224110.DCSupplemental/sd03.xlsx
+Acropora millepora,https://dl.dropboxusercontent.com/u/37523721/amillepora_transcriptome_july2014.zip,http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2012.05554.x/full,,"elevated temp, OA, macroalgal contact, phenotypic plasticity",RNAseq,,,Macroalgal contact: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0114525
+,,,,,,,,OA: http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2012.05554.x/full
+,,,,,,,,Thermal stress: http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2011.05205.x/abstract?deniedAccessCustomisedMessage=&userIsAuthenticated=false
+,,,,,,,,Plasticity: http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2009.04257.x/suppinfo
+,,,,,,,,Plasticity: http://www.biomedcentral.com/1471-2164/14/228
+Acropora palmata,http://main.g2.bx.psu.edu/u/nickpolato/h/apalmataassembly,http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0028634,,elevated temp,microarray,,http://onlinelibrary.wiley.com/doi/10.1111/mec.12163/full,Thermal stress: http://datadryad.org/handle/10255/dryad.39350
+Pocillopora damicornis,http://2ei.univ-perp.fr/telechargement/transcriptomes/blast2go_fasta_Pdamv2.zip,http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0058652,,"elevated temp, pathogen, OA",RNAseq,,,OA: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0058652
+,http://www.pocilloporabase.org/,,,,,,,Pathogen: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0107672#pone-0107672-g003
+Stylophora pistillata,http://www.ncbi.nlm.nih.gov/nuccore/GARY00000000.1,http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0091101,,elevated temp,microarray,,,Thermal stress: http://onlinelibrary.wiley.com/doi/10.1111/gcb.12592/abstract;jsessionid=5046C5B3FA37F9CC2C003B60A2086B5A.f03t01?deniedAccessCustomisedMessage=&userIsAuthenticated=false
+Montastrea faveolata,http://sequoia.ucmerced.edu/SymBioSys/est_summary.php?brief=1,,,elevated temp,microarray,,,Thermal stress: http://sequoia.ucmerced.edu/SymBioSys/
