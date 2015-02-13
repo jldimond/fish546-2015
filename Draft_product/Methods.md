@@ -14,4 +14,6 @@ To obtain only the subset of data on differentially expressed contigs, a file co
 
 Data were analyzed by converting data files to pandas tables. CpG O/E in the whole transcriptome and differentially expressed contigs were evaluated with density plots and bar plots for each GOslim bin. Because the GOslim annotation file contained contigs that were duplicated if they fell into more than one GOslim bin, density curves were plotted with CpG O/E data files generated prior to joining with GOslim annotation files.
 
+Analyses were perfomed on a computer running Ubuntu 14.04 with Python 2.7.
+
 
