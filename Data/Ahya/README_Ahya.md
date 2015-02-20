@@ -1,9 +1,6 @@
 This read me file describes the FASTA file named "33496_Ahyacinthus_CoralContigs.fasta". It was dowloaded 
 from http://palumbi.stanford.edu/data/33496_Ahyacinthus_CoralContigs.fasta.zip on 1/15/2015. This is a 
-transcriptome of the coral Acropora hyacinthus. It was featured in "Barshis, D.J., Ladner, J.T., Oliver, 
-T.A., Seneca, F.O., Traylor-Knowles, N., and Palumbi, S.R. (2013). Genomic basis for coral resilience to 
-climate change. PNAS 110, 1387–1392". The article and suporting information can be found at 
-http://www.pnas.org/content/110/4/1387.abstract. The supporting information file contains detailed 
+transcriptome of the coral *Acropora hyacinthus*. It was featured in [Barshis et al. (2013)](http://www.pnas.org/content/110/4/1387.abstract). The [supporting information file](http://www.pnas.org/content/suppl/2013/01/02/1210224110.DCSupplemental/pnas.201210224SI.pdf) contains detailed 
 information on the methods used to create the transcriptome. Briefly, the transcriptome contains 33,496
 contigs with high similarity to other cnidarian sequences. The authors used coral and dinoflagellate 
 sequences to filter out dinoflagellate sequences, so the transcriptome contains mostly coral 
@@ -11,6 +8,6 @@ transcripts.
 
 The file "Ahya_diff_contigs" is a text file that lists the 484 contigs that were differentially expressed
 between control and heated corals, regardless of source population. The contig IDs are the same as those 
-in the transcriptome above. The file was obtained from an Excel file named "sd01.xlsx" that was downloaded
-from the supplementary info page at http://www.pnas.org/content/110/4/1387.abstract
+in the transcriptome above. The file was obtained from an [Excel file]((http://www.pnas.org/content/suppl/2013/01/02/1210224110.DCSupplemental/sd01.xlsx) that was downloaded
+from the supplementary info page at http://www.pnas.org/content/110/4/1387.abstract.
 
