@@ -1,0 +1,3 @@
+This week I spent some time acquiring more data and putting it in my repository. I also added README files explaining the datasets. The major pieces I am currently lacking are a *Montastraea faveolata* transcriptome (web server does not appear to be working) and a temperature response dataset for *Stylophora pistillata* (microarray dataset with no contig IDs or accession numbers that I can make any sense of). So I will contact the authors of these datasets to try to complete the data.
+
+Meanwhile, I am blasting transcriptomes on genefish so I can start to annotate them. To this end, I updated the Uniprot-Swissprot database on genefish. 
