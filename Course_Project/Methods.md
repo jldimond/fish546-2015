@@ -14,7 +14,7 @@ After removing pipes from the tab-delimited output file, the file was uploaded t
 
 *CpG ratio analysis*
 
-Next, an [iPython notebook](http://nbviewer.ipython.org/github/jldimond/fish546-2015/blob/master/nb/CpG_ratio_graph_Ahya.ipynb) workflow was developed to serve as a pipeline for analysis of CpG O/E. The original FASTA file was converted to tab-delimited format, then a new column with the number of sequences in each contig was added to the file. The number of C, G, and CG in each contig were then computed and each passed to separate files that were subsequently appended to the main file. The script then calculated CpG O/E as:
+Next, an [iPython notebook workflow](https://github.com/jldimond/fish546-2015/tree/master/Course_Project/Workflow) was developed to serve as a pipeline for analysis of CpG O/E. The original FASTA file was converted to tab-delimited format, then a new column with the number of sequences in each contig was added to the file. The number of C, G, and CG in each contig were then computed and each passed to separate files that were subsequently appended to the main file. The script then calculated CpG O/E as:
 
 #####CpG O/E = (number of CpG / number of C x number of G) x (l^2/l-1)
 
