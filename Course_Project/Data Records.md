@@ -1,27 +1,51 @@
-####Input files
+###Input files
+---
 
-The primary input files used in the analysis include the transcriptome fasta file, a list of differentially expressed contigs, and SQLshare tables with annotation data (Table 2). Aside form the SQLshare files, these input files can be found [here](https://github.com/jldimond/fish546-2015/tree/master/Data/Ahya). The *Acropora hyacinthus* transcriptome was dowloaded from http://palumbi.stanford.edu/data/33496_Ahyacinthus_CoralContigs.fasta.zip on 1/15/2015. It was featured in an article by [Barshis et al. (2013)](http://www.pnas.org/content/110/4/1387.abstract). The [supporting information file](http://www.pnas.org/content/suppl/2013/01/02/1210224110.DCSupplemental/pnas.201210224SI.pdf) contains detailed information on the experimental conditions and the methods used to create the transcriptome. Briefly, the transcriptome contains 33,496 contigs with high similarity to other cnidarian sequences. The authors used coral and dinoflagellate sequences to filter out dinoflagellate sequences, so the transcriptome contains mostly coral transcripts.
+The primary input files used in the analysis include transcriptome fasta files and SQLshare tables with annotation data (Table 2). Aside form the SQLshare files, these input files can be found [here](https://github.com/jldimond/fish546-2015/tree/master/Data). 
 
-The file `Ahya_diff_contigs` is a text file derived from a [supplementary file](http://www.pnas.org/content/suppl/2013/01/02/1210224110.DCSupplemental/sd01.xlsx) that lists the 484 contigs that were differentially expressed between control and heated corals, regardless of source population. The contig IDs are the same as those in the transcriptome above. 
+####Transcriptome data
+
+######*Acropora hyacinthus*
+
+The *Acropora hyacinthus* transcriptome file 33496_Ahyacinthus_CoralContigs.fasta was dowloaded from http://palumbi.stanford.edu/data/33496_Ahyacinthus_CoralContigs.fasta.zip on 1/15/2015. It was featured in an article by [Barshis et al. (2013)](http://www.pnas.org/content/110/4/1387.abstract). The [supporting information file](http://www.pnas.org/content/suppl/2013/01/02/1210224110.DCSupplemental/pnas.201210224SI.pdf) contains detailed information on the experimental conditions and the methods used to create the transcriptome. Briefly, the transcriptome contains 33,496 contigs with high similarity to other cnidarian sequences. The authors used coral and dinoflagellate sequences to filter out dinoflagellate sequences, so the transcriptome contains mostly coral transcripts.
+
+######*Acropora millepora*
+
+The FASTA file Amil_Moya.fasta is a transcriptome for *Acropora millepora* downloaded from NCBI at http://www.ncbi.nlm.nih.gov/nuccore?term=74409%5BBioProject%5D on 2/5/2015. It was featured in an article by [Moya et al. (2012)](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2012.05554.x/full). The transcriptome was developed from newly settled polyps without symbionts.
+
+######*Acropora palmata*
+
+Apalmata_assembled.fasta is a transcriptome essembly for Acopora palmata downloaded from https://usegalaxy.org/datasets/cb51c4a06d7ae94e/display?to_ext=fasta on 2/19/2015. It was featured in an article by [Polato et al. 2011](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0028634). The transcriptome was developed from symbiont-free larval tissue.
+
+######*Pocillopora damicornis*
+
+The file blast2go_fasta_Pdamv2.fasta is a *Pocillopora damicornis* transcriptome assembly downloaded from http://2ei.univ-perp.fr/telechargement/transcriptomes/blast2go_fasta_Pdamv2.zip on 2/19/2015. It was originally featured in an article by [Vidal-Dupiol et al. (2013)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058652). The transcriptome was developed from adult *P. damicornis* and consists of 72,890 contigs. According to the authors, "...27.7% and 69.8% of the contigs were predicted to belong to the symbiont and the host transcriptome, respectively. The remaining contigs could not be taxonomically attributed." 
+
+######*Stylophora pistillata*
+
+The file Spist.fasta is a *Stylophora pistillata* transcriptome downloaded from http://data.centrescientifique.mc/Data/454Isotigs.fas.zip on 2/19/2015. This transcriptome was featured in an article by [Karako-Lampert et al. (2014)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0088615). The transcriptome was developed from adult coral tissue, but the authors determined that only approximately 2.5% of the sequences mapped exclusively to the *Symbiodinium* genome. Thus, the vast majority of transcripts are coral transcripts.
+
+####Other input data
 
 Other input files included the SQLShare tables [SPID and GO Numbers](https://sqlshare.escience.washington.edu/sqlshare/#s=query/sr320@washington.edu/SPID%20and%20GO%20Numbers) and [GO_to_GOslim](https://sqlshare.escience.washington.edu/sqlshare/#s=query/sr320%40washington.edu/GO_to_GOslim) with SWISS-PROT, GO, and GOslim IDs. 
 
 #####Table 2. Input data files 
 Input files | Description
 ------------ | -------------
-33496_Ahyacinthus_CoralContigs.fasta | *Acropora hyacinthus* transcriptome
-Ahya_diff_contigs | List of *A. hyacinthus* differentially expressed contigs (temperature stress)
+Coral transcriptomes | FASTA files
 SPID and GO Numbers | Table of SWISS-PROT and GO IDs
 GO_to_GOSlim | Table of GO and GOSlim IDs
 
-####Output files
+###Output files
+---
 
-The primary output datafiles (Table 3) include ID_CpG.tab, which includes CpG O/E calculated for all contigs in the transcriptome. ID_CpG_diff.tab is a subset of this file with only differentially expressed contigs. The files with GOslim annotation include Ahya_cpg_GOslim.csv and Ahya_diff_cpg_GOslim.csv; the latter file include only differentially expressed contigs. These files can be found [here](https://github.com/jldimond/fish546-2015/tree/master/Analyses/Ahya).
+The primary output datafiles (Table 3) include ID_CpG.tab, which includes CpG O/E calculated for all contigs in the transcriptome, and {sp_name}_cpg_GOslim.csv, a GOSlim annotation of each transcriptome. These files can be found [here](https://github.com/jldimond/fish546-2015/tree/master/Analyses).
 
 #####Table 3. Output data files
 Output files | Description
 ------------ | -------------
 ID_CpG.tab | File with contig ID and CpG ratio
-ID_CpG_diff.tab | File with contig ID and CpG ratio for differentially expressed contigs
 Ahya_cpg_GOslim.csv | File resulting from joining of CpG ratio and GOSlim IDs
-Ahya_diff_cpg_GOslim.csv | CpG ratio and GOslim IDs for differentially expressed contigs
+
+From these data files, transcriptome-wide patterns of CpG ratio were determined, as well as CpG ratio patterns for each GOSlim bin. 
+
