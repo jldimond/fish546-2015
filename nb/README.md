@@ -23,6 +23,10 @@ Click links below to render in iPython notebook viewer
 
 [*Pocillopora damicornis* blast and annotation](http://nbviewer.ipython.org/github/jldimond/fish546-2015/blob/master/nb/Pdam_blast_anno.ipynb)
 
+[*Pocillopora damicornis* CpG ratio](http://nbviewer.ipython.org/github/jldimond/fish546-2015/blob/master/nb/Pdam_CpG_ratio.ipynb)
+
 ####*Stylophora pistillata*
 
 [*Stylophora pistillata* blast and annotation](http://nbviewer.ipython.org/github/jldimond/fish546-2015/blob/master/nb/Spist_blast_anno.ipynb)
+
+[*Stylophora pistillata* CpG ratio](http://nbviewer.ipython.org/github/jldimond/fish546-2015/blob/master/nb/Spist_CpG_ratio.ipynb)
