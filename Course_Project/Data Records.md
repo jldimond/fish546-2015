@@ -45,7 +45,26 @@ The primary output datafiles (Table 3) include ID_CpG.tab, which includes CpG O/
 Output files | Description
 ------------ | -------------
 ID_CpG.tab | File with contig ID and CpG ratio
-Ahya_cpg_GOslim.csv | File resulting from joining of CpG ratio and GOSlim IDs
+Ahya_cpg_GOslim.csv | File resulting from joining of CpG O/E and GOSlim IDs
 
-From these data files, transcriptome-wide patterns of CpG ratio were determined, as well as CpG ratio patterns for each GOSlim bin. 
+From these data files, transcriptome-wide patterns of CpG O/E were determined, as well as CpG O/E patterns for each GOSlim bin. Transcriptome-wide analyses generally suggest bimodal patterns of CpG O/E in all species (Figs 1-5). As with patterns of gene body methylation in several other invertebrates analyzed to date, such a bimodal pattern appears to reflect populations of hypo- and hypermethylated genes.
 
+![Figure 1](https://github.com/jldimond/fish546-2015/blob/master/images/Ahya_density.png?raw=true) 
+
+![Figure 2](https://github.com/jldimond/fish546-2015/blob/master/images/Amil_density.png?raw=true) 
+
+![Figure 3](https://github.com/jldimond/fish546-2015/blob/master/images/Apalm_density.png?raw=true) 
+
+Analysis of CpG O/E by GOSlim bin for each species indicates mean CpG O/E for each biological process category. For all five species, the top four biological processes with the highest mean CpG O/E are cell-cell signalling, cell adhesion, signal transduction, and developmental processes. In contrast, DNA metabolism, RNA metabolism, protein metabolism, and other biological processes were consistently among the lowest categories in terms of CpG O/E.
+
+![Figure 6](https://github.com/jldimond/fish546-2015/blob/master/images/Ahya_bar.png?raw=true) 
+
+Figure 6. *Acropora hyacinthus* mean CpG O/E by GOSlim bin.
+
+![Figure 7](https://github.com/jldimond/fish546-2015/blob/master/images/Amil_bar.png?raw=true) 
+
+![Figure 8](https://github.com/jldimond/fish546-2015/blob/master/images/Apalm_bar.png?raw=true) 
+
+![Figure 9](https://github.com/jldimond/fish546-2015/blob/master/images/Pdam_bar.png?raw=true) 
+
+![Figure 10](https://github.com/jldimond/fish546-2015/blob/master/images/Spist_bar.png?raw=true) 
