@@ -49,7 +49,7 @@ Ahya_cpg_GOslim.csv | File resulting from joining of CpG O/E and GOSlim IDs
 
 From these data files, transcriptome-wide patterns of CpG O/E were determined, as well as CpG O/E patterns for each GOSlim bin. Transcriptome-wide analyses generally suggest bimodal patterns of CpG O/E in all species (Figs 1-5). As with patterns of gene body methylation in several other invertebrates analyzed to date, such a bimodal pattern appears to reflect populations of hypo- and hypermethylated genes.
 
-![Figure 1](https://github.com/jldimond/fish546-2015/blob/master/images/Ahya_density.png?raw=true) 
+![Figure 1](./images/Ahya_density.png?raw=true) 
 
 Figure 1. *Acropora hyacinthus* transcriptome-wide CpG O/E.
 
