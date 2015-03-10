@@ -1,5 +1,4 @@
 ##Data Records
----
 
 ###Input files
 
@@ -27,7 +26,7 @@ The file blast2go_fasta_Pdamv2.fasta is a *Pocillopora damicornis* transcriptome
 
 The file Spist.fasta is a *Stylophora pistillata* transcriptome downloaded from http://data.centrescientifique.mc/Data/454Isotigs.fas.zip on 2/19/2015. This transcriptome was featured in an article by [Karako-Lampert et al. (2014)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0088615). The transcriptome was developed from adult coral tissue, but the authors determined that only approximately 2.5% of the sequences mapped exclusively to the *Symbiodinium* genome. Thus, the vast majority of transcripts are coral transcripts.
 
-####Other input data
+###Other input data
 
 Other input files included the SQLShare tables [SPID and GO Numbers](https://sqlshare.escience.washington.edu/sqlshare/#s=query/sr320@washington.edu/SPID%20and%20GO%20Numbers) and [GO_to_GOslim](https://sqlshare.escience.washington.edu/sqlshare/#s=query/sr320%40washington.edu/GO_to_GOslim) with SWISS-PROT, GO, and GOslim IDs. 
 
@@ -39,7 +38,6 @@ SPID and GO Numbers | Table of SWISS-PROT and GO IDs
 GO_to_GOSlim | Table of GO and GOSlim IDs
 
 ###Output files
----
 
 The primary output datafiles (Table 3) include ID_CpG.tab, which includes CpG O/E calculated for all contigs in the transcriptome, and {sp_name}_cpg_GOslim.csv, a GOSlim annotation of each transcriptome. These files can be found [here](https://github.com/jldimond/fish546-2015/tree/master/Analyses).
 
