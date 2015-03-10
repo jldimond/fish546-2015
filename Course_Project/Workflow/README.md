@@ -1,5 +1,5 @@
 ## IPython notebooks
-Click links below to render in iPython notebook viewer
+Click links below to render in IPython notebook viewer
 
 ####*Acropora hyacinthus*
 
