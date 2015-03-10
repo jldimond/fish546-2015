@@ -1,0 +1,1 @@
+This directory comprises Jay Dimond's final project for FISH 546 - Winter 2015. The project was an analysis of germline DNA methylation in five coral species. Further information on the project background, methods, and results can be found in the Background, Methods, and Data Records sections, respectively.
