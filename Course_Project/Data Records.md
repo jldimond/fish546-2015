@@ -1,7 +1,7 @@
-#Data Records
+##Data Records
+---
 
 ###Input files
----
 
 The primary input files used in the analysis include transcriptome fasta files and SQLshare tables with annotation data (Table 2). Aside form the SQLshare files, these input files can be found [here](https://github.com/jldimond/fish546-2015/tree/master/Data). 
 
