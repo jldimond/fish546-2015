@@ -2,7 +2,7 @@
 
 *Transcriptome annotation*
 
-Transcriptomes were annotated in an [IPython notebook workflow](https://github.com/jldimond/fish546-2015/tree/master/Course_Project/Workflow). All transcriptomes were annotated using Blastx (version 2.2.29) for comparison to UniProt/Swiss-Prot protein database (version 2/17/2015). Parameters for blastx were has follows: 
+Transcriptomes were annotated in an [IPython notebook workflow](https://github.com/jldimond/fish546-2015/tree/master/Course_Project/Workflow). All transcriptomes were annotated using Blastx (version 2.2.29) for comparison to the UniProt/Swiss-Prot protein database (version 2/17/2015). Parameters for blastx were has follows: 
 
 - maximum number of target sequences = 1
 - maximum number of high-scoring pairs = 1
