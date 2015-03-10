@@ -5625,6 +5625,8 @@
 379079377 0.670694 developmental processes
 379079377 0.670694 other biological processes
 379079378 0.479006 other metabolic processes
+379079379 0.686925 cell organization and biogenesis
+379079379 0.686925 other metabolic processes
 379079389 0.699162 DNA metabolism
 379079390 0.888263 signal transduction
 379079392 0.904065 developmental processes
@@ -17760,6 +17762,18 @@
 379093787 0.792474 other biological processes
 379093787 0.792474 other metabolic processes
 379093787 0.792474 transport
+379093791 1.14439 death
+379093791 1.14439 other biological processes
+379093791 1.14439 protein metabolism
+379093791 1.14439 RNA metabolism
+379093791 1.14439 signal transduction
+379093791 1.14439 stress response
+379093797 0.626977 cell adhesion
+379093797 0.626977 other metabolic processes
+379093797 0.626977 protein metabolism
+379093798 0.69829 other metabolic processes
+379093799 0.957918 developmental processes
+379093799 0.957918 RNA metabolism
 379093800 0.922136 developmental processes
 379093800 0.922136 other biological processes
 379093800 0.922136 signal transduction
