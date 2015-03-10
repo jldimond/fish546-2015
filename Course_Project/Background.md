@@ -14,7 +14,6 @@ Organism | Transcriptome reference
 *Acropora hyacinthus* | Barshis et al. (2013) 
 *Acropora millepora* | Moya et al. (2012) 
 *Acropora palmata* | Polato et al. (2011) 
-*Montastraea faveolata* | Desalvo et al. (2008) 
 *Pocillopora damicornis* | Vidal-Dupiol et al. (2013) 
 *Stylophora pistillata* | Karako-Lampert et al. (2014) 
 
