@@ -51,9 +51,23 @@ From these data files, transcriptome-wide patterns of CpG O/E were determined, a
 
 ![Figure 1](https://github.com/jldimond/fish546-2015/blob/master/images/Ahya_density.png?raw=true) 
 
+Figure 1. *Acropora hyacinthus* transcriptome-wide CpG O/E.
+
 ![Figure 2](https://github.com/jldimond/fish546-2015/blob/master/images/Amil_density.png?raw=true) 
 
+Figure 2. *Acropora millepora* transcriptome-wide CpG O/E.
+
 ![Figure 3](https://github.com/jldimond/fish546-2015/blob/master/images/Apalm_density.png?raw=true) 
+
+Figure 3. *Acropora palmata* transcriptome-wide CpG O/E.
+
+![Figure 4](https://github.com/jldimond/fish546-2015/blob/master/images/Pdam_density.png?raw=true) 
+
+Figure 4. *Pocillopora damicornis* transcriptome-wide CpG O/E.
+
+![Figure 5](https://github.com/jldimond/fish546-2015/blob/master/images/Spist_density.png?raw=true) 
+
+Figure 5. *Stylophora pistillata* transcriptome-wide CpG O/E.
 
 Analysis of CpG O/E by GOSlim bin for each species indicates mean CpG O/E for each biological process category. For all five species, the top four biological processes with the highest mean CpG O/E are cell-cell signalling, cell adhesion, signal transduction, and developmental processes. In contrast, DNA metabolism, RNA metabolism, protein metabolism, and other biological processes were consistently among the lowest categories in terms of CpG O/E.
 
@@ -63,8 +77,16 @@ Figure 6. *Acropora hyacinthus* mean CpG O/E by GOSlim bin.
 
 ![Figure 7](https://github.com/jldimond/fish546-2015/blob/master/images/Amil_bar.png?raw=true) 
 
+Figure 7. *Acropora millepora* mean CpG O/E by GOSlim bin.
+
 ![Figure 8](https://github.com/jldimond/fish546-2015/blob/master/images/Apalm_bar.png?raw=true) 
+
+Figure 8. *Acropora palmata* mean CpG O/E by GOSlim bin.
 
 ![Figure 9](https://github.com/jldimond/fish546-2015/blob/master/images/Pdam_bar.png?raw=true) 
 
+Figure 9. *Pocillopora damicornis* mean CpG O/E by GOSlim bin.
+
 ![Figure 10](https://github.com/jldimond/fish546-2015/blob/master/images/Spist_bar.png?raw=true) 
+
+Figure 10. *Stylophora pistillata* mean CpG O/E by GOSlim bin.
