@@ -39,7 +39,7 @@ GO_to_GOSlim | Table of GO and GOSlim IDs
 
 ###Output files
 
-The primary output datafiles (Table 3) include ID_CpG, which includes CpG O/E calculated for all contigs in the transcriptome, and {sp_name}_cpg_GOslim.tab, which is the ID_CpG file joined to the GOSlim annotation of each transcriptome. Snapshots of the headers of these files are shown in Figs 1 and 2.
+The primary output datafiles (Table 3) include ID_CpG, which includes CpG O/E calculated for all contigs in the transcriptome, and {sp_name}_cpg_GOslim.tab, which is the ID_CpG file joined to the GOSlim annotation of each transcriptome. Snapshots of the headers of these files are shown in Figs 1 and 2. It was necessary to use both of these files for final analysis because the {sp_name}_cpg_GOslim.tab file resulted in duplication of contigs that fell into more than one GOSlim bin. While this file was appropriate for analysis of CpG O/E in each GOSlim bin, it was not appropriate for analysis of transcriptome-wide CpG O/E.
 
 #####Table 3. Output data files
 Output files | Description
@@ -80,7 +80,7 @@ Figure 6. *Pocillopora damicornis* transcriptome-wide CpG O/E.
 
 Figure 7. *Stylophora pistillata* transcriptome-wide CpG O/E.
 
-Analysis of CpG O/E by GOSlim bin for each species indicates mean CpG O/E for each biological process category. For all five species, the top four biological processes with the highest mean CpG O/E are cell-cell signalling, cell adhesion, signal transduction, and developmental processes. In contrast, DNA metabolism, RNA metabolism, protein metabolism, and other biological processes were consistently among the lowest categories in terms of CpG O/E.
+Analysis of CpG O/E by GOSlim bin for each species shows the mean CpG O/E for each biological process category. For all five species, the top four biological processes with the highest mean CpG O/E were cell-cell signalling, cell adhesion, signal transduction, and developmental processes. In contrast, DNA metabolism, RNA metabolism, protein metabolism, and other biological processes were consistently among the lowest categories in terms of CpG O/E.
 
 ![Figure 8](.images/Ahya_bar.png?raw=true) 
 
