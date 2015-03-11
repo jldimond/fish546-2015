@@ -82,7 +82,7 @@ From these data files, transcriptome-wide patterns of CpG O/E were determined, a
 
 Analysis of CpG O/E by GOSlim bin for each species shows the mean CpG O/E for each biological process category. For all five species, the top four biological processes with the highest mean CpG O/E were cell-cell signalling, cell adhesion, signal transduction, and developmental processes. In contrast, DNA metabolism, RNA metabolism, protein metabolism, and other biological processes were consistently among the lowest categories in terms of CpG O/E.
 
-![Figure 8](.images/Ahya_bar.png?raw=true) 
+![Figure 8](./images/Ahya_bar.png?raw=true) 
 
 #####Figure 8. *Acropora hyacinthus* mean CpG O/E by GOSlim bin.
 
