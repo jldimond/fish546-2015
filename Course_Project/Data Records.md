@@ -41,6 +41,14 @@ GO_to_GOSlim | Table of GO and GOSlim IDs
 
 The primary output datafiles (Table 3) include ID_CpG.tab, which includes CpG O/E calculated for all contigs in the transcriptome, and {sp_name}_cpg_GOslim.csv, a GOSlim annotation of each transcriptome. These files can be found [here](https://github.com/jldimond/fish546-2015/tree/master/Analyses).
 
+![Figure 1](./images/ID_CpG.png?raw=true) 
+
+Figure 1. Snapshot of a tab-delimited ID_CpG file showing contig ID and CpG O/E.
+
+![Figure 2](./images/{species}_cpg_GOslim.png?raw=true) 
+
+Figure 2. Snapshot of a tab-delimited {species}_cpg_GOslim.tab file showing contig ID, CpG O/E, and GOSlim biological processes terms.
+
 #####Table 3. Output data files
 Output files | Description
 ------------ | -------------
@@ -49,44 +57,44 @@ Ahya_cpg_GOslim.csv | File resulting from joining of CpG O/E and GOSlim IDs
 
 From these data files, transcriptome-wide patterns of CpG O/E were determined, as well as CpG O/E patterns for each GOSlim bin. Transcriptome-wide analyses generally suggest bimodal patterns of CpG O/E in all species (Figs 1-5). As with patterns of gene body methylation in several other invertebrates analyzed to date, such a bimodal pattern appears to reflect populations of hypo- and hypermethylated genes.
 
-![Figure 1](./images/Ahya_density.png?raw=true) 
+![Figure 3](./images/Ahya_density.png?raw=true) 
 
-Figure 1. *Acropora hyacinthus* transcriptome-wide CpG O/E.
+Figure 3. *Acropora hyacinthus* transcriptome-wide CpG O/E.
 
-![Figure 2](https://github.com/jldimond/fish546-2015/blob/master/images/Amil_density.png?raw=true) 
+![Figure 4](./images/Amil_density.png?raw=true) 
 
-Figure 2. *Acropora millepora* transcriptome-wide CpG O/E.
+Figure 4. *Acropora millepora* transcriptome-wide CpG O/E.
 
-![Figure 3](https://github.com/jldimond/fish546-2015/blob/master/images/Apalm_density.png?raw=true) 
+![Figure 5](./images/Apalm_density.png?raw=true) 
 
-Figure 3. *Acropora palmata* transcriptome-wide CpG O/E.
+Figure 5. *Acropora palmata* transcriptome-wide CpG O/E.
 
-![Figure 4](https://github.com/jldimond/fish546-2015/blob/master/images/Pdam_density.png?raw=true) 
+![Figure 6](./images/Pdam_density.png?raw=true) 
 
-Figure 4. *Pocillopora damicornis* transcriptome-wide CpG O/E.
+Figure 6. *Pocillopora damicornis* transcriptome-wide CpG O/E.
 
-![Figure 5](https://github.com/jldimond/fish546-2015/blob/master/images/Spist_density.png?raw=true) 
+![Figure 7](./images/Spist_density.png?raw=true) 
 
-Figure 5. *Stylophora pistillata* transcriptome-wide CpG O/E.
+Figure 7. *Stylophora pistillata* transcriptome-wide CpG O/E.
 
 Analysis of CpG O/E by GOSlim bin for each species indicates mean CpG O/E for each biological process category. For all five species, the top four biological processes with the highest mean CpG O/E are cell-cell signalling, cell adhesion, signal transduction, and developmental processes. In contrast, DNA metabolism, RNA metabolism, protein metabolism, and other biological processes were consistently among the lowest categories in terms of CpG O/E.
 
-![Figure 6](https://github.com/jldimond/fish546-2015/blob/master/images/Ahya_bar.png?raw=true) 
+![Figure 8](.images/Ahya_bar.png?raw=true) 
 
-Figure 6. *Acropora hyacinthus* mean CpG O/E by GOSlim bin.
+Figure 8. *Acropora hyacinthus* mean CpG O/E by GOSlim bin.
 
-![Figure 7](https://github.com/jldimond/fish546-2015/blob/master/images/Amil_bar.png?raw=true) 
+![Figure 9](./images/Amil_bar.png?raw=true) 
 
-Figure 7. *Acropora millepora* mean CpG O/E by GOSlim bin.
+Figure 9. *Acropora millepora* mean CpG O/E by GOSlim bin.
 
-![Figure 8](https://github.com/jldimond/fish546-2015/blob/master/images/Apalm_bar.png?raw=true) 
+![Figure 10](./images/Apalm_bar.png?raw=true) 
 
-Figure 8. *Acropora palmata* mean CpG O/E by GOSlim bin.
+Figure 10. *Acropora palmata* mean CpG O/E by GOSlim bin.
 
-![Figure 9](https://github.com/jldimond/fish546-2015/blob/master/images/Pdam_bar.png?raw=true) 
+![Figure 11](./images/Pdam_bar.png?raw=true) 
 
-Figure 9. *Pocillopora damicornis* mean CpG O/E by GOSlim bin.
+Figure 11. *Pocillopora damicornis* mean CpG O/E by GOSlim bin.
 
-![Figure 10](https://github.com/jldimond/fish546-2015/blob/master/images/Spist_bar.png?raw=true) 
+![Figure 12](./images/Spist_bar.png?raw=true) 
 
-Figure 10. *Stylophora pistillata* mean CpG O/E by GOSlim bin.
+Figure 12. *Stylophora pistillata* mean CpG O/E by GOSlim bin.
