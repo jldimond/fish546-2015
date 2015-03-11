@@ -12,11 +12,11 @@ The *Acropora hyacinthus* transcriptome file 33496_Ahyacinthus_CoralContigs.fast
 
 ######*Acropora millepora*
 
-The FASTA file Amil_Moya.fasta is a transcriptome for *Acropora millepora* downloaded from NCBI at http://www.ncbi.nlm.nih.gov/nuccore?term=74409%5BBioProject%5D on 2/5/2015. It was featured in an article by [Moya et al. (2012)](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2012.05554.x/full). The transcriptome was developed from newly settled polyps without symbionts.
+The FASTA file Amil_Moya.fasta is a transcriptome for *Acropora millepora* downloaded from NCBI at http://www.ncbi.nlm.nih.gov/nuccore?term=74409%5BBioProject%5D on 2/5/2015. It was featured in an article by [Moya et al. (2012)](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2012.05554.x/full). The transcriptome consists of 52,963 contigs. The transcriptome was developed from newly settled polyps without symbionts.
 
 ######*Acropora palmata*
 
-Apalmata_assembled.fasta is a transcriptome essembly for Acopora palmata downloaded from https://usegalaxy.org/datasets/cb51c4a06d7ae94e/display?to_ext=fasta on 2/19/2015. It was featured in an article by [Polato et al. 2011](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0028634). The transcriptome was developed from symbiont-free larval tissue.
+Apalmata_assembled.fasta is a transcriptome essembly for Acopora palmata downloaded from https://usegalaxy.org/datasets/cb51c4a06d7ae94e/display?to_ext=fasta on 2/19/2015. It was featured in an article by [Polato et al. 2011](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0028634). The transcriptome was developed from symbiont-free larval tissue and consists of 88,020 contigs.
 
 ######*Pocillopora damicornis*
 
@@ -24,7 +24,7 @@ The file blast2go_fasta_Pdamv2.fasta is a *Pocillopora damicornis* transcriptome
 
 ######*Stylophora pistillata*
 
-The file Spist.fasta is a *Stylophora pistillata* transcriptome downloaded from http://data.centrescientifique.mc/Data/454Isotigs.fas.zip on 2/19/2015. This transcriptome was featured in an article by [Karako-Lampert et al. (2014)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0088615). The transcriptome was developed from adult coral tissue, but the authors determined that only approximately 2.5% of the sequences mapped exclusively to the *Symbiodinium* genome. Thus, the vast majority of transcripts are coral transcripts.
+The file Spist.fasta is a *Stylophora pistillata* transcriptome downloaded from http://data.centrescientifique.mc/Data/454Isotigs.fas.zip on 2/19/2015. This transcriptome was featured in an article by [Karako-Lampert et al. (2014)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0088615). The transcriptome consists of 15,052 contigs and was developed from adult coral tissue, but the authors determined that only approximately 2.5% of the sequences mapped exclusively to the *Symbiodinium* genome. Thus, the vast majority of transcripts are coral transcripts.
 
 ###Other input data
 
