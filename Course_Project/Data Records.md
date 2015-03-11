@@ -58,7 +58,7 @@ ID_CpG | File with contig ID and CpG ratio
 
 ###Results
 
-From these data files, transcriptome-wide patterns of CpG O/E were determined, as well as CpG O/E patterns for each GOSlim bin. Transcriptome-wide analyses generally suggest bimodal patterns of CpG O/E in all species (Figs 1-5). As with patterns of gene body methylation in several other invertebrates analyzed to date, such a bimodal pattern appears to reflect populations of hypo- and hypermethylated genes.
+From these data files, transcriptome-wide patterns of CpG O/E were determined, as well as CpG O/E patterns for each GOSlim bin. Transcriptome-wide analyses generally suggest bimodal patterns of CpG O/E in all species (Figs 1-5). As with patterns of gene body methylation in several other invertebrates analyzed to date, such a bimodal pattern appears to reflect populations of hypo- and hypermethylated genes. The coral transcriptomes appear to have relatively large fractions of genes with high CpG O/E, reflecting hypomethylated genes.
 
 ![Figure 3](./images/Ahya_density.png?raw=true) 
 
