@@ -39,8 +39,13 @@ GO_to_GOSlim | Table of GO and GOSlim IDs
 
 ###Output files
 
-The primary output datafiles (Table 3) include ID_CpG.tab, which includes CpG O/E calculated for all contigs in the transcriptome, and {sp_name}_cpg_GOslim.csv, a GOSlim annotation of each transcriptome. These files can be found [here](https://github.com/jldimond/fish546-2015/tree/master/Analyses).
+The primary output datafiles (Table 3) include ID_CpG, which includes CpG O/E calculated for all contigs in the transcriptome, and {sp_name}_cpg_GOslim.tab, which is the ID_CpG file joined to the GOSlim annotation of each transcriptome. Snapshots of the headers of these files are shown in Figs 1 and 2.
 
+#####Table 3. Output data files
+Output files | Description
+------------ | -------------
+ID_CpG | File with contig ID and CpG ratio
+{species}_cpg_GOslim.tab | File resulting from joining of CpG O/E and GOSlim IDs
 
 ![Figure 1](./images/ID_CpG.png?raw=true) 
 
@@ -51,11 +56,7 @@ Figure 1. Snapshot of a tab-delimited ID_CpG file showing contig ID and CpG O/E.
 
 Figure 2. Snapshot of a tab-delimited {species}_cpg_GOslim.tab file showing contig ID, CpG O/E, and GOSlim biological processes terms.
 
-#####Table 3. Output data files
-Output files | Description
------------- | -------------
-ID_CpG.tab | File with contig ID and CpG ratio
-Ahya_cpg_GOslim.csv | File resulting from joining of CpG O/E and GOSlim IDs
+###Results
 
 From these data files, transcriptome-wide patterns of CpG O/E were determined, as well as CpG O/E patterns for each GOSlim bin. Transcriptome-wide analyses generally suggest bimodal patterns of CpG O/E in all species (Figs 1-5). As with patterns of gene body methylation in several other invertebrates analyzed to date, such a bimodal pattern appears to reflect populations of hypo- and hypermethylated genes.
 
