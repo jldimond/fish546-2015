@@ -41,9 +41,11 @@ GO_to_GOSlim | Table of GO and GOSlim IDs
 
 The primary output datafiles (Table 3) include ID_CpG.tab, which includes CpG O/E calculated for all contigs in the transcriptome, and {sp_name}_cpg_GOslim.csv, a GOSlim annotation of each transcriptome. These files can be found [here](https://github.com/jldimond/fish546-2015/tree/master/Analyses).
 
+
 ![Figure 1](./images/ID_CpG.png?raw=true) 
 
 Figure 1. Snapshot of a tab-delimited ID_CpG file showing contig ID and CpG O/E.
+
 
 ![Figure 2](./images/{species}_cpg_GOslim.png?raw=true) 
 
